@@ -24,6 +24,14 @@ Sometimes the answer became a working application. Sometimes it became a learnin
 
 ## Selected projects
 
+
+### [ügzView](https://github.com/micha42-dot/ugzView)
+
+A image viewer for Windows 10/11, Linux and macOS, built with C++20 and Qt 6.
+
+`C++` · `image viewer` · `Open source`
+
+
 ### [Fooocus Advanced](https://github.com/micha42-dot/Fooocus_Advanced)
 
 An experimental and customized version of Fooocus for exploring AI image generation and advanced creative workflows.
