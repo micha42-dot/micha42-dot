@@ -25,7 +25,7 @@ Sometimes the answer became a working application. Sometimes it became a learnin
 ## Selected projects
 
 
-### [ügzView](https://github.com/micha42-dot/ugzView)
+### [üxzView](https://github.com/micha42-dot/uxzView)
 
 A image viewer for Windows 10/11, Linux and macOS, built with C++20 and Qt 6.
 
